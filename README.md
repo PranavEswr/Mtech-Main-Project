@@ -5,4 +5,5 @@
 - And 2 optimizers, 1) Adam 2) SGD 
 - So there are two models.
 - These models are then compared to find the best.
-(Given program is )
+
+(Given is a program of a model with  )
