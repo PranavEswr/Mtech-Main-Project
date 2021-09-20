@@ -6,4 +6,4 @@
 - So there are two models.
 - These models are then compared to find the best.
 
-(Given is a program of a model with  )
+(Given is a program of a model for poisson noise with SGD optimizer. Performance for rest of the models found by replacing optimizer and by adding other noises  )
